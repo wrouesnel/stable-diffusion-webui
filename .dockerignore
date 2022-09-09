@@ -1,0 +1,8 @@
+*Dockerfile*
+docker-compose.yml
+.git
+/build.sh
+/.dockerid
+/run.sh
+/.github
+/.mypy_cache
